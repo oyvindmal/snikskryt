@@ -15,9 +15,9 @@ Snikskryt gjelder bestandig uavhengig av situasjon.
 
 Det gjelder for eksempel i følgende situasjoner
 
-* Talkshows (som for eksempel Vodcast eller Panelet)
-* Familieselskap
-* På jobb
+- Talkshows (som for eksempel Vodcast eller Panelet)
+- Familieselskap
+- På jobb
 
 ## Hva er straffen for snikskryt?
 Normalt er straffen for snikskryt 2 slurker. I spesielle tilfeller (for eksempel Astrid S) kan andre straffer forekomme.
