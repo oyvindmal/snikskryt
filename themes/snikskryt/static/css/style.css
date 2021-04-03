@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background: #60c68e;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    list-style-position: inside;
+}
