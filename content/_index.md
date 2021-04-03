@@ -14,6 +14,7 @@ Snikskryt er når du uoppfordret og utenfor samtalens tema kommer med opplysning
 Snikskryt gjelder bestandig uavhengig av situasjon. 
 
 Det gjelder for eksempel i følgende situasjoner
+
 * Talkshows (som for eksempel Vodcast eller Panelet)
 * Familieselskap
 * På jobb
